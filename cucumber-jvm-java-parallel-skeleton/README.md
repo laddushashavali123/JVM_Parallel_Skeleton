@@ -2,7 +2,7 @@
 
 <sup>(all together now...)</sup>
 
-# cucumber-jvm-java-maven-parallel-picocontainer-selenium-webdriver-pagefactory-skeleton
+# cucumber-jvm-java-parallel-skeleton
 *Because no-one else should have to suffer what I did to work this out*
 
 All the things required to run cucumber-jvm in parallel and cross-browser in one repo. No, thank *you*.
